@@ -31,8 +31,8 @@ Ensure you have Node.js and npm installed. (Recommended version: Node.js 14.x or
 Clone the repository and install dependencies:
 
 ```
-git clone https://github.com/yourusername/web3-sidehub.git
-cd web3-sidehub
+git clone https://github.com/AmanUpadhyay1609/Web3_SIDEHUB.git
+cd Web3_SIDEHUB
 npm install
 ```
 
@@ -76,4 +76,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any inquiries, please reach out to [Your Name](mailto:youremail@example.com).
+For any inquiries, please reach out to [Aman Upadhyay](aman.upadhyay@thewasserstoff.com).
