@@ -1,0 +1,32 @@
+{
+  "name": "web3-sidehub",
+  "version": "1.0.0",
+  "description": "A TypeScript SDK for blockchain interactions using Sidehub.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev" : "nodemon src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/web3-sidehub.git"
+  },
+  "keywords": [
+    "blockchain",
+    "sdk",
+    "web3",
+    "sidehub"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^6.0.0",
+    "web3": "^1.10.0",
+    "@solana/web3.js": "^1.70.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.0"
+  }
+}
